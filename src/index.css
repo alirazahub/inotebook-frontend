@@ -1,0 +1,19 @@
+.custom__bg{
+    background-color: #fff!important;
+}
+i{
+    cursor: pointer;
+    font-size: 22px;
+}
+.cutom_margin{
+    margin: 100px 0;
+}
+.addItem{
+    font-size: 40px;
+}
+footer a{
+    text-decoration: none;
+}footer a:hover{
+    text-decoration: underline;
+    color: rgb(64, 107, 224)!important;
+}
